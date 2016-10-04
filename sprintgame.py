@@ -47,3 +47,8 @@ while 1:
 time_elapsed=time.time()-s_time;
 print "\n\nCongratulations, dummy! You've taken %f seconds to complete the game. :D"%(time_elapsed)
 raw_input()
+
+''' 
+1. Don't tell how many times we have press any particular key.
+
+'''
